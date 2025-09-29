@@ -1,0 +1,13 @@
+pandas
+pymysql
+streamlit
+uvicorn
+fastapi
+tqdm
+sentence_transformers
+rembg
+python-multipart
+imagehash
+customtkinter
+matplotlib
+seaborn
